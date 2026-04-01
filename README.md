@@ -59,9 +59,7 @@ This file is filtered from the full feature package and only contains the select
 
 ## Large files
 
-Large files of the RIIV public subset are distributed via the GitHub Releases page rather than the main repository.
-
-If a file is split into multiple parts, please download all parts and merge them locally before use.
+数据集具体内容在百度网板，链接: https://pan.baidu.com/s/1nbN1A8v72be51LURYnR02g?pwd=enam 提取码: enam
 
 ## Ethics
 
