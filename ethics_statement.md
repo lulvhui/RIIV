@@ -1,6 +1,6 @@
-# Ethics and Privacy Note
+# Ethics and Future Work
 
-This public subset is released for academic research only.
-The full dataset is not distributed here due to privacy and size considerations.
-All released videos are anonymized by face blurring.
-Users must not attempt re-identification or use this dataset for high-stakes decisions.
+The dataset in this work is derived from real IELTS-style mock interview videos and is used strictly for academic research. Because the task involves multimodal dialogue understanding with emotion-related cues, it may introduce privacy concerns and subjective annotation bias. The predicted personality traits should therefore be regarded as apparent personality judgments rather than definitive assessments of a person’s true personality. We oppose any misuse of such technology in high-stakes applications that may harm individual privacy, autonomy, or fairness.
+
+
+A potential limitation of our current setting is that personality is reduced to a set of scalar scores, whose values are largely distributed around the median range. While this formulation is convenient for supervised regression and already yields promising performance, it may not be the best way to model personality in real conversational scenarios. Personality perception is often descriptive, comparative, and context-dependent, rather than naturally expressed as a single fixed score. Therefore, in future work we aim to study personality reasoning with description-based and open-vocabulary outputs, which could avoid some of the constraints of the current annotation scheme and provide more interpretable predictions.
