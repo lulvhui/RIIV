@@ -6,12 +6,6 @@ Public research subset of **RIIV**: a benchmark for **human personality analysis
 
 RIIV is a multimodal dialogue personality analysis dataset built from real IELTS-style mock interview videos. The full benchmark contains **218** interview videos and **2,322** turn-level dialogue units with aligned **textual, acoustic, visual, and emotion-related** information, together with continuous **Big Five** personality annotations. This repository releases an **anonymized public subset** for academic research use only. 
 
-The original benchmark and methodology are introduced in our paper:
-
-> **A Benchmark for Human Personality Analysis in Multimodal Dialogues**  
-> Lvhui Lu, Dan Wu, Dong Zhang, Yue Zhang, Yu Hong, Shoushan Li
-
-
 ## Repository structure 
 
 ```text
