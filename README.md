@@ -48,7 +48,7 @@ This file is filtered from the full feature package and only contains the select
 
 ## Large files
 
-由于数据集体积较大，本仓库不直接存放完整数据文件，请通过外部链接下载：https://pan.baidu.com/s/1nbN1A8v72be51LURYnR02g?pwd=enam 提取码: enam
+由于数据集体积较大，本仓库不直接存放完整数据文件，请通过外部链接下载：https://pan.baidu.com/s/1UzmEsbQDJMCMw6xUbcptoQ?pwd=uhq8 提取码: uhq8
 
 
 
