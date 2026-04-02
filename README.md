@@ -24,7 +24,6 @@ RIIV/
     │   └── ielts_part1_emotion_subset.json
     ├── features/
     │   └── pinet_emotion_subset.pkl
-    ├── metadata/
     └── videos_blurred/
 ```
 
