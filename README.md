@@ -11,16 +11,6 @@ The original benchmark and methodology are introduced in our paper:
 > **A Benchmark for Human Personality Analysis in Multimodal Dialogues**  
 > Lvhui Lu, Dan Wu, Dong Zhang, Yue Zhang, Yu Hong, Shoushan Li
 
-## What is included in this repository
-
-This public subset contains:
-
-- **Blurred Part 1 interview videos** from the selected subset
-- **Turn-level annotations** in JSON format
-- **Authoritative personality labels** derived from the released subset
-- **Multimodal feature subset** extracted from the full feature package
-- **Metadata files** describing the selected public subset
-- **Ethics statement** and supplementary notes
 
 ## Repository structure 
 
@@ -59,17 +49,8 @@ This file is filtered from the full feature package and only contains the select
 
 ## Large files
 
-数据集具体内容在百度网板，链接: https://pan.baidu.com/s/1nbN1A8v72be51LURYnR02g?pwd=enam 提取码: enam
+由于数据集体积较大，本仓库不直接存放完整数据文件，请通过外部链接下载：https://pan.baidu.com/s/1nbN1A8v72be51LURYnR02g?pwd=enam 提取码: enam
 
-## Ethics
-
-This dataset is released for academic research only.
-
-Users must not:
-
-attempt to identify any individual in the released data,
-redistribute the data for commercial purposes,
-use the dataset in high-stakes decision-making scenarios such as hiring, screening, diagnosis, or other sensitive applications.
 
 
 
