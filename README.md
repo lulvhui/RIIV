@@ -27,17 +27,20 @@ Each subject is indexed by a person ID. For each subject, the released turn-leve
 label: subject-level Big Five scores
 
 turns: turn-level dialogue units
+
 Q: interviewer question
+
 A: candidate response
+
 time_q: question timestamp
+
 time_a: answer timestamp
+
 emotion_response: emotion reasoning text aligned with the response
 
 Feature file
 
-The released feature subset is provided as:
-
-subset/features/ielts_emotion_subset.pkl
+The released feature subset is provided as: subset/features/ielts_emotion_subset.pkl
 
 ## Large files
 
