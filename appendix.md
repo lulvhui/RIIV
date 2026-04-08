@@ -4,18 +4,15 @@ The dataset in this work is derived from real IELTS-style mock interview videos 
 # Future Work
 A potential limitation of our current setting is that personality is reduced to a set of scalar scores, whose values are largely distributed around the median range. While this formulation is convenient for supervised regression and already yields promising performance, it may not be the best way to model personality in real conversational scenarios. Personality perception is often descriptive, comparative, and context-dependent, rather than naturally expressed as a single fixed score. Therefore, in future work we aim to study personality reasoning with description-based and open-vocabulary outputs, which could avoid some of the constraints of the current annotation scheme and provide more interpretable predictions.
 
+# Case Study: Validating Turn-Level Modeling and Emotion Injection
 
-
-### Figure 1. Case study on Sample 36 for Conscientiousness
+### Figure 1. Case study on Sample 36 
 <img width="5596" height="3996" alt="Case study on Sample 36 for Conscientiousness" src="https://github.com/user-attachments/assets/5d972dc6-ce6c-47bf-a2f0-4ba2b8866010" />
 
-### Figure 2. Case study on Sample 193 for Openness
+### Figure 2. Case study on Sample 193 
 
 <img width="5520" height="3776" alt="Case study on Sample 193 for Openness" src="https://github.com/user-attachments/assets/10cef449-7a25-40ca-b2a5-8cc2b06b193b" />
 
-
-
-# Case Study: Validating Turn-Level Modeling and Emotion Injection
 
 To demonstrate the effectiveness of our proposed framework, we present two case studies (Figure 1 and Figure 2) that highlight why personality traits in multimodal dialogues should be inferred from differentiated turn-level evidence rather than global, whole-video representations. In both samples, different dialogue turns exhibit conflicting trait signals. Standard video-level modeling tends to smooth over these local contradictory points when extracting global features, causing the model to compromise and lean towards the "dominant" behavioral tone of the video. In contrast, our model successfully preserves these diagnostically valuable conflict points and utilizes emotion injection to accurately parse local behavioral motivations.
 
