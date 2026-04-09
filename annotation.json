@@ -1,0 +1,130 @@
+{
+  "08": {
+    "label": [
+      81.73,
+      52.86,
+      72.24,
+      70.96,
+      38.85
+    ],
+    "turns": [
+      {
+        "Q": "So let's start. What's your first name please?",
+        "A": "Romy.",
+        "time_q": [
+          1.4,
+          2.5
+        ],
+        "time_a": [
+          3.2,
+          4.2
+        ],
+        "emotion_response": "in the video, the person's facial expressions and tone convey a sense of happiness, as they smile and speak with a cheerful tone the person's relaxed posture and the casual setting suggest a comfortable and carefree atmosphere, further reinforcing the idea that they are feeling happy"
+      },
+      {
+        "Q": "Do you have a wide circle of friends or just a few close friends?",
+        "A": "I tend to have a wide range of friends. I don't have many friends that I would consider very close to me. I like to have a lot of people I can reach out to and a lot of different types of friends that I can go to for different reasons.",
+        "time_q": [
+          6.2,
+          8.5
+        ],
+        "time_a": [
+          8.8,
+          24.5
+        ],
+        "emotion_response": "in the video, the person's facial expressions and tone convey a sense of happiness, as they describe their diverse social circle and ability to reach out to various friends for different reasons the use of the word \"friend\" and the emphasis on having a wide range of friends suggests a positive and inclusive attitude towards relationships, which is consistent with the happy tone"
+      },
+      {
+        "Q": "And how often do you see your friends?",
+        "A": "It depends. I try to see them as much as possible. It can be very hard to arrange meetings with friends, especially when you have such a wide range. I see friends that I do sport with every day almost because I play sport every day. But then other people I don't see as often, but I'm still just as close with when I meet up with them finally.",
+        "time_q": [
+          25.5,
+          28.2
+        ],
+        "time_a": [
+          28.5,
+          48.5
+        ],
+        "emotion_response": "in the video, the person's facial expressions and tone are normal, with a slight smile and a relaxed demeanor their words, it depends i try to see them as much as possible, convey a sense of practicality and consideration for others' schedules the context suggests that they are discussing their relationships with friends, and their tone and expression indicate that they are genuinely interested in maintaining those relationships, but also acknowledging the challenges of arranging meetings with a wide range of people"
+      },
+      {
+        "Q": "And do you have a best friend?",
+        "A": "I wouldn't really say that I have a best friend. I have a couple of friends I would consider myself to be closer with, but I think the word 'best friend' can be very set in stone. And you know, things change, life is pretty variable, so I tend to just know who my close friends are and keep it at that.",
+        "time_q": [
+          51.2,
+          54.5
+        ],
+        "time_a": [
+          55.1,
+          78.2
+        ],
+        "emotion_response": "in the video, the person's facial expressions and tone convey a sense of happiness, as they smile and laugh while discussing their relationships with friends the use of the word 'best friend' is used in a casual manner, suggesting that the person does not place great importance on labeling or categorizing their friendships this relaxed attitude towards friendship is likely rooted in the person's belief that life is unpredictable and that relationships can change over time, so it's better to focus on the present rather than getting too caught up in labels"
+      },
+      {
+        "Q": "What do you normally do in the evenings?",
+        "A": "If it's a normal day, I'll be exhausted. I'm always pretty tired, so I tend to just relax, have dinner with my family, and then I'll try and read a book. If I have time or if it's during university, I usually have to do quite a little bit of study. If it's during the holidays, I have more time and I'm not as tired, I tend to want to catch up with friends, so I'll go out to dinner in the city or I might watch a movie with friends or go out for food and drinks.",
+        "time_q": [
+          121.2,
+          124.5
+        ],
+        "time_a": [
+          124.8,
+          156.5
+        ],
+        "emotion_response": "in the video, the person's facial expressions and tone are relaxed, with a slight smile and a calm demeanor their words, if it's a normal day, i'll be exhausted, suggest that they are expressing a sense of resignation or acceptance of their daily routine, which is likely influenced by their physical tiredness the fact that they mention being tired and having to do a little bit of study suggests that they are not feeling particularly energized or motivated, but rather simply going through the motions of their daily routine the overall tone and content of their speech imply a sense of contentment or even boredom, as they seem to be simply recounting their daily activities without much enthusiasm or excitement"
+      },
+      {
+        "Q": "And would you like to do an evening course in a subject?",
+        "A": "I'm not sure, I've never really considered it. I don't think I would because evenings are a very precious time to me. It's a time I like to use to do stuff for myself and to relax. So I don't think I would try and fill my evenings with anything else.",
+        "time_q": [
+          157.1,
+          161.2
+        ],
+        "time_a": [
+          161.5,
+          182.1
+        ],
+        "emotion_response": "in the video, the person's facial expressions and tone are relaxed, with a slight smile, indicating a sense of contentment and comfort their words, i'm not sure, i've never really considered it, and i don't think i would because evenings are a very precious time to me, suggest a sense of introspection and self-awareness the person is contemplating their own preferences and priorities, which is often associated with a sense of calmness and inner peace"
+      },
+      {
+        "Q": "Are you good at saving money?",
+        "A": "No, I'm not good at saving money at all. I tend to do a lot of shopping. I really like finding new brands and new boutiques and I also love to go out and socialize with my friends. So I find it very hard to save money and that's something I'm definitely trying to work on.",
+        "time_q": [
+          182.8,
+          185.2
+        ],
+        "time_a": [
+          185.5,
+          203.5
+        ],
+        "emotion_response": "in the video, the person's facial expressions and tone convey a sense of sadness, as they express their inability to save money despite their desire to do so the person's words, i'm not good at saving money at all, and i tend to do a lot of shopping, suggest that they are struggling with impulsive spending habits, which may be contributing to their financial difficulties the combination of these factors suggests that the person is feeling down about their financial situation, likely due to the frustration and disappointment associated with not being able to achieve their financial goals"
+      },
+      {
+        "Q": "Have you ever made an expensive purchase?",
+        "A": "Yes, I have. I'd say I do a lot of rowing and that is a very expensive sport. So I'd say that all my expenses for that sport have been very large and the memberships are always pretty expensive. So I consider it something that is very important to me and it's obviously one of my main sports that I do. So I tend to put it at a high priority.",
+        "time_q": [
+          204.1,
+          207.2
+        ],
+        "time_a": [
+          207.5,
+          228.5
+        ],
+        "emotion_response": "in the video, the person's facial expressions and tone convey a sense of happiness, as they smile and laugh while discussing their hobby of rowing the person's words, such as yes, i have and i'd say, suggest a casual and friendly tone, which further reinforces the positive emotions the person is experiencing the fact that they consider their sport to be very important and prioritize it also implies that they are passionate about it, which can contribute to their overall happiness"
+      },
+      {
+        "Q": "What would you do if someone gave you a large amount of money?",
+        "A": "It's a very good question. I'm really not sure. There's nothing that I really would need to spend on right now. I'd like to think that I would donate some of it as everybody would. I think it would really help for my savings account going towards saving up for a house in the future or just towards general day-to-day life.",
+        "time_q": [
+          229.1,
+          233.5
+        ],
+        "time_a": [
+          233.8,
+          252.1
+        ],
+        "emotion_response": "in the video, the person's facial expression is neutral, with their eyebrows slightly raised and no visible emotional cues the tone of their voice is also neutral, as they speak in a matter-of-fact manner about their financial situation the words they use, such as it's a very good question, i'm really not sure, and i think it would really help for my savings account going towards saving up for a house in the future or just towards general day-to-day life, suggest that the person is providing a straightforward and unbiased answer to the question, without any apparent emotional attachment or personal opinion the combination of their neutral facial expression and neutral tone implies that the person is simply sharing information without any strong emotional investment or personal opinion"
+      }
+    ]
+  }
+}
