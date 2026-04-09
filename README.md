@@ -38,13 +38,27 @@ time_a: answer timestamp
 
 emotion_response: emotion reasoning text aligned with the response
 
-Feature file
 
-The released feature subset is provided as: subset/features/ielts_emotion_subset.pkl
+## Data Access & Large Files
+Due to the large size of the full dataset and privacy considerations, we provide a sample subset via the link below.
 
-## Large files
+1. Sample 
+The external link contains a sample of the RIIV dataset. For privacy protection, the faces of the subjects in these sample videos have been blurred.
 
-Due to the large size of the dataset, the complete data files are not stored directly in this repository. Please download them via the external link.：https://pan.baidu.com/s/14SX3GeJC5lIZa2jr5-Y-AQ?pwd=x7rr 提取码: x7rr
+Link:  https://pan.baidu.com/s/1EFU_pA1j8CBNcxuGeeFQjQ?pwd=bi2s 
+
+Password:  bi2s 
+
+2. Feature file
+   
+The released feature subset is provided as: https://pan.baidu.com/s/1b0IXsUzn3K6KuZncXKGmJA?pwd=mh3s 
+
+Password:mh3s
+
+3. Full Dataset Request
+If you need the complete RIIV dataset (including all 218 videos and unmasked visual data) for academic research purposes, please contact us via email:
+
+Email: 20255227052@stu.suda.edu.cn
 
 
 
